@@ -137,6 +137,6 @@ Helios is licensed under the **MIT License** – free to use & modify.
 ---
 
 <p align="center">
-  Made by [Nitanshu Tak](https://www.linkedin.com/in/nitanshu-tak-89a1ba289/) ⚡️
+  [Nitanshu Tak](https://www.linkedin.com/in/nitanshu-tak-89a1ba289/) ⚡️
 </p>
 
