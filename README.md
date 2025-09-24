@@ -106,9 +106,9 @@ python3 app.py
 
 ## 📊 Demo
 
-🎥 **Demo Video:** *(insert link here)*  
+🎥 **Demo Video:** [demo here](https://drive.google.com/drive/folders/1js-HCOqW4TSnRxqlkPPsdx5L-GeB3epN)
 
-🖼️ **Screenshots:** *(place screenshots below each step)*  
+🖼️ **Screenshots:** In the Documentaion. 
 
 ---
 
