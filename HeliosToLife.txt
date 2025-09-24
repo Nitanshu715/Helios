@@ -1,5 +1,4 @@
 Open google colab
-
 create a new notebook 
 helios_models.ipynb
 
@@ -136,6 +135,8 @@ mkdir models
 Create the IAM user with the policies of S3ReadOnlyAccess
 access key- AKIAZKDIDKLQ2RXLMZO5
 secret access key - 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
+
+*THE ACCESS KEY NOW DEACTIVATED ALONG WITH THE USER
 
 aws configure
 Enter the IAM user keys
@@ -351,4 +352,5 @@ Built 5 ML-driven anomaly detectors: CPU, Network, Login, Content Injection, Sto
 Integrated into a Flask API deployed on AWS EC2.
 Enabled live monitoring via CloudWatch Dashboard.
 Configured automatic alerts via SNS Email.
+
 Demonstrated end-to-end anomaly detection & alert pipeline at zero cost using free tier.
