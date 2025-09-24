@@ -1,12 +1,7 @@
-<p align="right">
-  <img src="https://github.com/Nitanshu715/Helios/blob/main/logo.png" alt="Helios Logo" width="120" />
-</p>
-
 # 🚀 Helios – AI-Powered Cloud Anomaly Detection
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
-[![Made with Love](https://img.shields.io/badge/made%20with-❤️-red)]()
 
 ---
 
@@ -19,6 +14,8 @@ Helios is a **cloud-native anomaly detection system** that integrates **Machine 
 - 💾 **Storage Growth**
 
 Helios ensures **proactive monitoring**, **real-time alerts**, and **self-healing readiness**, all while running on AWS Free Tier.
+**Also, Helios is a part or a prototype product for a research paper which is going to be on the topic of DevSecOps: AI/ML Threat Detection in Cloud and Self Healing.**
+Rights and credits owned by **Nitanshu Tak**.
 
 ---
 
