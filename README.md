@@ -127,7 +127,7 @@ Want to make Helios even better?
 - Fork the repo 🍴  
 - Add new anomaly detectors (DB, API, Memory)  
 - Submit PR 🚀  
-
+- Or connect with me on my nitanshutak070105@gmail.com
 ---
 
 ## 📜 License
@@ -137,6 +137,6 @@ Helios is licensed under the **MIT License** – free to use & modify.
 ---
 
 <p align="center">
-  Made with ❤️ by Nitanshu
+  Made by [Nitanshu Tak](https://www.linkedin.com/in/nitanshu-tak-89a1ba289/) ⚡️
 </p>
 
