@@ -15,10 +15,10 @@ Helios is a **cloud-native anomaly detection system** that integrates **Machine 
 
 Helios ensures **proactive monitoring**, **real-time alerts**, and **self-healing readiness**, all while running on AWS Free Tier.
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 **Also, Helios is a part or a prototype product for a research paper which is going to be on the topic of DevSecOps: AI/ML Threat Detection in Cloud and Self Healing.**                                    
 => Rights and credits owned by **Nitanshu Tak**.
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 ---
 
 ## 📂 Project Structure
