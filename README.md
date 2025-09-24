@@ -121,8 +121,6 @@ This project is aligned with the **research paper on AI-driven anomaly detection
 
 ---
 
----
-
 ## 🤝 Contributing
 
 Want to make Helios even better?  
