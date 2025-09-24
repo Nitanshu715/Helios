@@ -121,16 +121,6 @@ This project is aligned with the **research paper on AI-driven anomaly detection
 
 ---
 
-## 📈 Evaluation Criteria
-
-| Criteria                       | Marks |
-|--------------------------------|-------|
-| Architecture & Service Usage   | 7/20 |
-| Implementation & Deployment    | 7/20 |
-| Scalability, Automation & Sec. | 3/20 |
-| Documentation & Presentation   | 3/20 |
-| **Total**                      | 20/20 ✅ |
-
 ---
 
 ## 🤝 Contributing
