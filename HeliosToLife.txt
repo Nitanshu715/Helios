@@ -133,15 +133,15 @@ cd helios
 mkdir models
 
 Create the IAM user with the policies of S3ReadOnlyAccess
-access key- AKIAZKDIDKLQ2RXLMZO5
-secret access key - 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
+access key- A5
+secret access key - gZ
 
 *THE ACCESS KEY NOW DEACTIVATED ALONG WITH THE USER
 
 aws configure
 Enter the IAM user keys
-AWS Access Key ID: AKIAZKDIDKLQ2RXLMZO5
-AWS Secret Access Key: gVMFv2WdYEduS2HFN6lxKvZSaC3Z48ZTPEs8i1XZ
+AWS Access Key ID: A5
+AWS Secret Access Key: gZ
 Default region: us-east-1 (or your region)
 Default output format: json
 
@@ -354,3 +354,4 @@ Enabled live monitoring via CloudWatch Dashboard.
 Configured automatic alerts via SNS Email.
 
 Demonstrated end-to-end anomaly detection & alert pipeline at zero cost using free tier.
+
